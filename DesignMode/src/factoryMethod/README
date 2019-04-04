@@ -1,0 +1,5 @@
+工厂方法
+Logger:日志接口
+Loggerfactory:日志工厂类接口
+DataBaseLogger,FileLogger:具体的日志类
+DataBaseLoggerFactory,FileLoggerFactory:对应的日志工厂类

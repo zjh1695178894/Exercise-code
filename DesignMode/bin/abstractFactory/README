@@ -1,0 +1,3 @@
+抽象工厂方法
+Button,TextField,ComboBox:产品族，接口
+SkinFactory:界面皮肤工厂接口，含有创建产品的方法

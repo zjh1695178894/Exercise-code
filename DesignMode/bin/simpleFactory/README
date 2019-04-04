@@ -1,0 +1,7 @@
+简单工厂模式
+Chart:抽象类，含有所有具体内的公有方法
+ChartFactory:工厂类，内含静态工厂方法，根据传入的字符串创建不同的具体内对象
+HistogramChart,PieChart,LineChart:具体内
+
+Config.xml:配置文件，配置想要传入的字符串
+XMLUtil:工具类，获取xml文件中的文本节点

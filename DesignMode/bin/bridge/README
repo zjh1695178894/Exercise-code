@@ -1,0 +1,5 @@
+桥接模式
+Image:抽象图像类，充当抽象类
+xxxImage:充当扩充抽象类
+ImageImpl：抽象操作系统实现类，充当实现类接口
+xxxImageImpl：充当具体实现类

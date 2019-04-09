@@ -1,0 +1,4 @@
+建造者模式
+Actor:
+ActorBuilder:抽象类，定义公共的角色建造方法，并返回一个角色实例
+ActorController:指挥类，xxxBuilder类中方法的调用顺序，返回角色实例

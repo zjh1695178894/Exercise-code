@@ -1,0 +1,6 @@
+代理模式
+AccessValidator:身份验证类，充当业务类
+Logger:日志类，充当业务类
+Searcher:抽象查询类，充当抽象主题角色
+RealSearcher：具体查询类，充当真实主题角色
+ProxySearcher：代理查询类，充当代理主题角色

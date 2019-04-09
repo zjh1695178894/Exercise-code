@@ -1,0 +1,3 @@
+单例模式
+EagerSingleton:饿汉式单例
+LazySingleton:懒汉式单例，双重检查锁定

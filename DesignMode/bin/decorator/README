@@ -1,0 +1,5 @@
+装饰模式
+Component：抽象构件类
+Window,TextBox,ListBox:具体构件类
+ComponentDecorator:抽象装饰类
+xxxDecorator:具体装饰类

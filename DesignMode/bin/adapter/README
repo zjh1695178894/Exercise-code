@@ -1,0 +1,4 @@
+适配器模式
+CarController：汽车控制类，充当目标抽象
+PoliceLamp,PoliceSound：充当适配者
+PoliceCarAdapter：适配器类
